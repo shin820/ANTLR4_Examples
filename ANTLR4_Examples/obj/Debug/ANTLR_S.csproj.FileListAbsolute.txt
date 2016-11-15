@@ -1,0 +1,16 @@
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\bin\Debug\ANTLR_S.exe.config
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\bin\Debug\ANTLR_S.exe
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\bin\Debug\ANTLR_S.pdb
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\bin\Debug\Antlr4.Runtime.dll
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\bin\Debug\Antlr4.Runtime.xml
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\ANTLR_S.csprojResolveAssemblyReference.cache
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\ANTLR_S.exe
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\ANTLR_S.pdb
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\ANTLR_S.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorLexer.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorParser.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorListener.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorBaseListener.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorVisitor.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorBaseVisitor.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\bin\Debug\ANTLR4_Examples.exe.config

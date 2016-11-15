@@ -1,0 +1,6 @@
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorLexer.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorParser.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorListener.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorBaseListener.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorVisitor.cs
+D:\SourceCode\新建文件夹\ANTLR_S\ANTLR_S\obj\Debug\CalculatorBaseVisitor.cs
